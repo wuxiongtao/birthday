@@ -26,17 +26,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "哎哟陈瑞珍同学": "./imgs/haha.png",
+        "哎哟陈瑞珍同学": "./imgs/haha.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
-        play: "音乐，由于网络延迟，请等音乐播放出来后再点下一步",
-        bannar_coming: "颜色",
+        play: "音乐走起",
+        bannar_coming: "彩带",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
-        light_candle: "哎哟这个蜡烛怎么肥四？",
+        light_candle: "咦，这个蜡烛怎么肥四？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
